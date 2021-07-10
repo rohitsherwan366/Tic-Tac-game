@@ -21,3 +21,4 @@ To run the project open project folder and double click on “Tic-tac-toe.exe”
 
 
 ## SS
+![tic-tac game_ss](https://user-images.githubusercontent.com/39465843/125157581-813d9d00-e189-11eb-9ce5-a29c0c3ca903.png)
