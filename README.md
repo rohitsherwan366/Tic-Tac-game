@@ -21,4 +21,3 @@ To run the project open project folder and double click on “Tic-tac-toe.exe”
 
 
 ## SS
-![Screenshot (118)](https://user-images.githubusercontent.com/39465843/125157446-a978cc00-e188-11eb-96a1-e08db59a3741.png)
