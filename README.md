@@ -18,3 +18,7 @@ Firstly, you should have Dev C++ on your PC, then extract or unzip the downloade
 
 # Second Step
 To run the project open project folder and double click on “Tic-tac-toe.exe” or run “Tic-tac-toe.cpp” in Dev C++ where you can manually compile and run the project. Finally, you are ready to go.
+
+
+## SS
+![Screenshot (118)](https://user-images.githubusercontent.com/39465843/125157446-a978cc00-e188-11eb-96a1-e08db59a3741.png)
